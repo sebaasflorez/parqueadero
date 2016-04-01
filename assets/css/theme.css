@@ -1,0 +1,29 @@
+body {
+  padding-top: 70px;
+  padding-bottom: 30px;
+}
+
+.theme-dropdown .dropdown-menu {
+  position: static;
+  display: block;
+  margin-bottom: 20px;
+}
+
+.theme-showcase > p > .btn {
+  margin: 5px 0;
+}
+
+.theme-showcase .navbar .container {
+  width: auto;
+}
+
+.form-inline .form-group{
+	margin: 5px;
+}
+
+.placa{
+	font-size: 60px;
+    height: 80px;
+    text-align: center;
+}
+
